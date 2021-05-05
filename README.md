@@ -1,5 +1,5 @@
 # Face-Detection
-A face detection web app using JavaScript
+A Face Detection web app using JavaScript and Face Detection API
 
 ## How to run 
 Download the extension Live Server from https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer and right click the index.html file in VS code and select Open with Live Server
